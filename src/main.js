@@ -1,7 +1,7 @@
 //Створіть функцію reverseArray, яка приймає масив і повертає новий масив, 
 //елементи якого розташовані у зворотному порядку.
 
-/*
+
 const dataArr = prompt('Введіть масив даних')
 const originalArray = dataArr.split(' ')
 
@@ -13,12 +13,12 @@ function reverseArray(arr){
 }
 
 reverseArray(originalArray);
-*/
+
 
 //Створіть функцію uniqueValues, яка приймає два масиви і повертає новий масив, 
 //що містить тільки унікальні значення з обох масивів (без дублікатів).
 
-/*
+
 const firstArr = prompt('Введіть перший масив даних')
 const secArr = prompt('Введіть другий масив даних')
 
@@ -43,7 +43,7 @@ function uniqueValues(arr1, arr2) {
 }
 
 uniqueValues(array1, array2)
-*/
+
 
 //Напишіть функцію calculateAverageGrade, яка приймає на вхід масив об'єктів 
 //з інформацією про студентів (ім'я, вік, середній бал) і повертає середній бал усіх студентів.
